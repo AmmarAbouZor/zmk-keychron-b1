@@ -19,7 +19,5 @@
 #
 ---
 include:
-  - board: nrfmicro_13_52833
-    shield: corne_left
-  - board: nrfmicro_13_52833
-    shield: corne_right
+  - board: keychron
+    shield: keychron_b1_us
